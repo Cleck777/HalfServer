@@ -12,11 +12,11 @@ Current Objectives
 
 2.) SSL
 
-   OpenSSL will be included to allow for encryption
+   * OpenSSL will be included to allow for encryption
       
 3.) Logging
 
-   Starting a server should allow or the user to see who has spoke, where they have spoke, and when they have left
+   * Starting a server should allow or the user to see who has spoke, where they have spoke, and when they have left
       
 REQUIREMENTS
   
